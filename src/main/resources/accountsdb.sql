@@ -60,7 +60,7 @@ CREATE TABLE `love` (
 -- Dumping data for table `user`
 --
 
-LOCK TABLES `user` WRITE;
+LOCK TABLES `love` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
 INSERT INTO `love` VALUES (1,'Nando','imadeananda727@gmail.com','$2a$11$DSEIKJNrgPjG.iCYUwErvOkREtC67mqzQ.ogkZbc/KOW1OPOpZfY6');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
